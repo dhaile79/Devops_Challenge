@@ -19,7 +19,7 @@ This process can be simplified with the dotenv module, which allows changing the
 
 ### Tagging scheme
 I tried to use the easiest way to implement this, using a versioning labelling that can show minor and major changes, (probably a change logs could show better this).
-on Docker registry: (at today)
+# code on Docker registry: (at today)
  registry:2.8.1
  registry:2.8
  registry:2
