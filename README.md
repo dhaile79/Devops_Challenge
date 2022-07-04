@@ -19,11 +19,13 @@ This process can be simplified with the dotenv module, which allows changing the
 
 ### Tagging scheme
 I tried to use the easiest way to implement this, using a versioning labelling that can show minor and major changes, (probably a change logs could show better this).
-`code`on Docker registry: (at today)
+```
+on Docker registry: (at today)
  registry:2.8.1
  registry:2.8
  registry:2
  registry: latest
+```
 
 If no version is specified docker will automatically point to the latest, the issue is related to a specific image, it's difficult to create a reference that univocally can identify that specific image. One solution could be to use the <build-id> gives you correlation back to the specific build to find all the artefacts and logs, this can be expanded for example by adding a <build_system> tag taken from a CI/CD ex. (Jenkins).
 
