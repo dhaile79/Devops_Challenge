@@ -53,4 +53,4 @@ I mentioned above the pros and cons for the local docker registry, no intensive 
 
 ### Diagram
 
-![alt tag](https://github.com/dhaile79/Devops_Challenge/GCP Kubernetes nodes with GKE_nb.png)
+![alt tag](https://github.com/dhaile79/Devops_Challenge/blob/b4383bd711838f8d8e3bf0b623fd5a455d227d69/GCP%20Kubernetes%20nodes%20with%20GKE_nb.png)
