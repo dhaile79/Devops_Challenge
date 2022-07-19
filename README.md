@@ -50,3 +50,7 @@ No enough time for the helm chart test.
 
 Overall performaces:
 I mentioned above the pros and cons for the local docker registry, no intensive app load test has been done.
+
+### Diagram
+
+![alt text](https://lucid.app/lucidchart/c0ce1493-9c66-4dc6-96e9-6c184c4194e8/edit?viewport_loc=-495%2C-681%2C2532%2C2432%2C0_0&invitationId=inv_cb7af365-de1f-4bd8-a4d6-a4b65d1a4919#)
